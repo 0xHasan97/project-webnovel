@@ -1,13 +1,5 @@
 # Web Novel Library
 
-Each novel has its own folder, with manuscripts separated by volume. The spoiler-sensitive *The Quiet Verdict* continuity codex is maintained locally and intentionally excluded from this public repository.
-
-```text
-Novel_Title/
-  Volume_01/
-    ...chapter batches...
-```
-
 ## Current novels
 
 - [The Quiet Verdict](The_Quiet_Verdict/) — complete through Volume 11, Chapter 251.

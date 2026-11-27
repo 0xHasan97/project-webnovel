@@ -4,7 +4,6 @@ Each novel has its own folder, with manuscripts separated by volume. The spoiler
 
 ```text
 Novel_Title/
-  Novel_Title_Story_Codex.docx  # local/private; not published
   Volume_01/
     ...chapter batches...
 ```

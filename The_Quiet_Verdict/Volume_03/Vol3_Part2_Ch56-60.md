@@ -1,17 +1,3 @@
-THE QUIET VERDICT
-
-Volume 3: The Hunt
-
-Chapters 56 to 60 (Part 2 of Volume 3)
-
-## Arc 2 Recap: The Hunt
-
-*Ren Aizawa has finished his first term at Aster Institute with four dead and no charge. The Task Force is gone, the box is gone, and a boy of nineteen who tells the truth has arrived to hunt him.*
-
-*The festival opens in three days. Ren has told the hunter that someone may die. He has not said who.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event comes within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the ledger, in the writer’s own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not say how many times it has been used. Only the writer knows.*
-
 # Chapter 56: The Empty Cup
 
 By the time they reached Mr. Kurata’s flat, the tea was cold.
@@ -855,5 +841,3 @@ Nobody answered.
 Ren lowered his eyes to the empty line on the board.
 
 For the first time that day, the tea in his cup had gone cold.
-
-*END OF PART 2 OF VOLUME THREE*

@@ -1,12 +1,8 @@
-**THE QUIET VERDICT**
+## Arc 5 Recap: The Final Game
 
-Volume 9: The Final Game
+The placement conviction was affirmed on its narrow signed-instruction basis; it did not decide who authored the exercise, read the key, chose a candidate, or delivered a set. The transport collision inquiry remains open, although officials publicly identify the deceased occupant as Ren. I know that only from the record. The service-gate ledger records an open latch during a delivery, not a passerby; Kuze’s later account of leaving through it is firsthand but not verified by that ledger. Nia’s public chronology keeps placement, transport, and Lantern House records separate. A city archive search and a contractor search have not established who last held the measured plan. Kuze’s account relies on public records, attributed statements, memory, and marked reconstruction; his reported resemblance sighting remains unverified.
 
-*Chapters 201 to 205 (Part 1 of Volume 9)*
-
-Arc Five: The Final Game
-
-The placement conviction was affirmed on its narrow signed-instruction basis; it did not decide who authored the exercise, read the key, chose a candidate, or delivered a set. The transport collision inquiry remains open, although officials publicly identify the deceased occupant as Ren. I know that only from the record. The Mechanism’s rules remain: a name written with a clear face in mind produces death within forty seconds by a heart event, or within six minutes forty seconds in a written manner; the writer must have seen the face. Every use is handwritten by the writer in the ledger and cannot be erased. The ledger cannot be copied or photographed and exists in one place; anyone holding it may read it. It triggers death but need not make it look natural. Only the writer knows the total uses. These rules describe the record, not a finding about any death.
+*The Mechanism’s stated rules are not findings about any death: a name written with a clear face in mind produces death within forty seconds by a heart event, or within six minutes and forty seconds in a written manner; the writer must have seen the face. Each use is handwritten in the ledger and cannot be erased. The ledger cannot be copied or photographed and exists in one place; anyone holding it may read it. It triggers death but need not make it look natural. Only the writer knows the total uses.*
 
 # Chapter 201: The Assembly
 
@@ -315,5 +311,3 @@ I read the index from a public page, and the missing drawing stayed missing in t
 The following week, the city archive completed its accession-book search. The bound book confirmed one envelope under the parcel number, described as “survey material,” and a blank signature box. No outgoing loan, return, or destruction entry appeared under that code. The clerk cautioned that the index might use a different number for the drawing itself. The parcel entry confirmed the envelope had reached the archive at some point; it did not itemize the contents.
 
 Nia asked whether a search of adjacent parcel codes was possible. The archive said the city could look through the immediately neighboring entries but not every property record without a new request. The group filed the scoped follow-up and scheduled no police action. The next step remained an archive search, not an accusation.
-
-END OF PART 1 OF VOLUME NINE

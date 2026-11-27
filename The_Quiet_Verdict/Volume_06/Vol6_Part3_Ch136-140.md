@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 6: The Monster
-
-*Chapters 136 to 140 (Part 3 of Volume 6)*
-
-**Current-State Recap: The Monster**
-
-The Lantern House count books and fragments remain limited records, not transfer lists. The east-door slip, cut name, photograph gap, Matron’s possible third book, and residents’ outcomes remain unresolved. A work order records an east-camera fault; G2 appears as a cabinet label on a later diagram, but the visitor-log mark and any key-holder remain unidentified. Hara Tadao died after an interview; recorded clock ranges put his collapse 24–39 seconds after Ren was observed writing in a black notebook, but the page was not visible and no in-world cause has been established. Nia’s R-12 placement route was prepared around a three-clock exercise and an Aster contact typed “R. Aizawa”; who authored the records and who selected the recipient remain uncertain. Nia continues by choice under amended consent and is a limited public-chronology coordinator, not a police investigator. The school is preserving institutional records under a narrow order. Kreutz says he recognizes the erased registry name, but a protected question was withdrawn before any name was spoken.
-
 # Chapter 136: The Preservation Copy
 
 ---
@@ -265,5 +255,3 @@ Ishikawa preserved the interview recording and sealed transcript. The public sum
 At the next review, she asked to keep her copy of the blank registry image in her restricted observer file, not her school portfolio. Endo approved. Nia signed the access log and returned the image to its sleeve.
 
 The question had not gone away. It had been placed where it could be asked without turning the answer into public property.
-
-END OF PART 3 OF VOLUME SIX

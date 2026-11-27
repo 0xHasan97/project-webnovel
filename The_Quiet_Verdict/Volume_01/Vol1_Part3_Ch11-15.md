@@ -1,23 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 1: The Classroom
-
-Chapters 11 to 15 (Part 3 of Volume 1)
-
-
-
-## Arc 1 Recap: The Classroom
-
-*Aster Institute ranks its students by a hidden point system, and the ones who fall to zero are removed.*
-
-*Ren Aizawa, second in his class, does not show emotion and does not explain himself.*
-
-*Someone, somewhere, has begun to decide who lives.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. Each use is recorded in the ledger, in the writer's own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it.*
-
-
-
 # Chapter 11: The Hand
 
 The Task Force found the hand on a Wednesday.
@@ -161,7 +141,6 @@ It was a single line, and it was addressed to one person.
 *I would like to show you my face.*
 
 
-
 # Chapter 12: What Is Your Name?
 
 At 11:31 p.m., Mio Hanazono opened her dormitory door to find Ren in the corridor with a thin black notebook in his hand.
@@ -297,7 +276,6 @@ There was one more item in the file, which nobody read.
 It was an inventory of what the dead man had owned. A gray cardigan with a missing button. A pair of leather slippers. A pair of round glasses, cracked at the hinge. And a small brass key, stamped with the number *G-1.*
 
 Nobody knew what it opened.
-
 
 
 # Chapter 13: The Typist
@@ -449,7 +427,6 @@ A small, slow movement. The turning of a page.
 Kuze Minato, in the dark, had written one more line.
 
 *10. Ø did not have a cold.*
-
 
 
 # Chapter 14: Two Notebooks
@@ -619,7 +596,6 @@ Neither of them knew that at that exact moment, on the roof above them, a boy in
 It was a very small shadow.
 
 It did not move.
-
 
 
 # Chapter 15: A Perfect Week

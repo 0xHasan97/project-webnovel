@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 8: The Collapse
-
-*Chapters 176 to 180 (Part 1 of Volume 8)*
-
-**Current-State Recap: The Collapse**
-
-Ren pleaded not guilty through counsel and remained silent. At trial, the judge found him guilty on one narrow placement-fraud count: knowingly submitting the signed instruction to remove “simulation” from the student cover and withhold the source key. The court did not find that he authored the exercise, read the instructor key, selected Nia, or that any student received a particular set. Four sets were logged as issued, not delivered to named recipients. The folded control sheet and blank receipt stub were unprovenanced and did not support the verdict. Nia’s private placement file and the sealed destination index remain separate. Sentencing is pending.
-
-The court’s public findings address only the placement-fraud count. The archive’s unresolved questions, Nia’s separate chronology, and sealed student records remain outside that judgment. Ren has not spoken during the proceedings, and no inference may be drawn from his silence. Sentencing is pending.
-
 # Chapter 176: The Sleeve
 
 ---
@@ -237,5 +225,3 @@ The district’s final summary repeated the distinction. It named the count and 
 The court set sentencing for the following week. The clerk returned the signed request, certified archive pages, and key to their separate evidence sleeves. The control sheet and receipt stub remained separately preserved, accompanied by the examiner’s limitations. No new connection appeared between those items and Ren’s instruction.
 
 As the courtroom emptied, a staff member placed the public findings beside the sentencing notice. One page recorded what the judge believed the signed instruction proved. The next listed what still had no answer. The file advanced, but unanswered questions did not become findings simply because the court had reached a verdict.
-
-END OF PART 1 OF VOLUME EIGHT

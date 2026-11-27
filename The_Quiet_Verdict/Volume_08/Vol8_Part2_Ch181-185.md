@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 8: The Collapse
-
-*Chapters 181 to 185 (Part 2 of Volume 8)*
-
-**Current-State Recap: The Collapse**
-
-The trial has ended with a guilty finding on one placement-fraud count, based on Ren’s signed instruction to remove “simulation” and withhold the source key. The court did not find that he authored the exercise, read the key, selected Nia, or that any student set reached an identified recipient. Ren remained silent throughout trial; no inference was drawn. The control sheet and blank receipt stub found in the register sleeve remain unresolved and did not support the finding. Sentencing has not yet occurred, and no appeal has been filed. Nia’s private placement file and the sealed destination index remain separate.
-
 # Chapter 181: The Term
 
 ---
@@ -249,5 +239,3 @@ Endo asked if the group should describe the sealed appendix as “withheld evide
 The public brief framed one question for review: could the signed wording and surrounding process support the judge’s inference without proof of access or delivery? The panel had not answered it. The custodial term continued, and the state’s response was not yet due.
 
 Nia saved the agency bulletin under “sentence administration,” not “trial evidence.” The appeal brief stayed in a separate folder marked “party argument.” The labels prevented the archive interface from flattening a judgment, a custodial update, and a litigant’s claim into one undifferentiated account. Each item carried its own author, date, and legal function.
-
-END OF PART 2 OF VOLUME EIGHT

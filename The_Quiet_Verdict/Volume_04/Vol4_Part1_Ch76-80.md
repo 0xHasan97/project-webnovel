@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 4: The Hunt
-
-*Chapters 76 to 80 (Part 1 of Volume 4)*
-
-## Arc 2 Recap: The Hunt
-
-*At Aster’s festival banquet, thirty-two guests signed the ledger; one of thirty-three places remained blank, and one meal was left unclaimed. Kuze was reported missing from the hall and later reported dead by the headmistress, who cited a hospital notice. The service corridor and its records remain under investigation. Kuze’s friend Himeno has his sealed letter and notebooks. Kagami’s careful public statements are already being quoted without their context.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.*
-
 # Chapter 76: The First Correction
 
 ---
@@ -765,5 +753,3 @@ She called Sato. He said the police had photographed the cover and the open page
 Himeno wrote down his answer and the time of the call. She underlined the question about the clock.
 
 Then she added a second question beneath it: Who had the book before the photograph?
-
-*END OF PART 1 OF VOLUME FOUR*

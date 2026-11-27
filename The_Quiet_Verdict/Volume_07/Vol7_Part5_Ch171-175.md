@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 7: The Collapse
-
-*Chapters 171 to 175 (Part 5 of Volume 7)*
-
-**Current-State Recap: The Collapse**
-
-Ren Aizawa has pleaded not guilty through counsel and remains silent; the court has said that silence cannot support an inference. The narrow placement-fraud charge concerns his signed, student-number-verified instruction to remove “simulation” and withhold the source key. A retired front-office clerk recalls receiving the form from a student who presented Ren’s card, but did not see the signature written and cannot testify to the visitor’s knowledge or motive. The retained instructor key lists the separate source records and dates, but no access record places it in Ren’s hands. A redacted distribution register records four student sets issued with the key retained; it does not identify destinations or prove that Nia received a copy. Her private placement file remains separate. The court denied dismissal at this stage but has made no finding of guilt. The clerk now recalls an unproduced attachment; its contents remain unknown pending a documented search.
-
-The Mechanism is internal continuity only. No witness, court record, or character has connected it to Hara’s death. Keep the external narration and ground court-proceeding details in public transcripts, admitted exhibits, or official docket entries; do not narrate sealed discussions as if Kuze witnessed them.
-
 # Chapter 171: The Clerk
 
 ---
@@ -253,5 +241,3 @@ The distribution clerk looked at the sleeve through the clear evidence bag.
 The court would see it in the morning.
 
 The evidence officer placed the clear bag inside a rigid folder so the sleeve would not bend during transport. The clerk signed only to confirm she had watched the bag sealed; she did not initial the contents or identify the paper. The custodian recorded the register volume’s cover, spine, and page count before it left the room. Each person received a copy of the custody receipt, and the original stayed with the sealed item. No one opened the fold, read the sheet, or compared its writing with Ren’s signature. The court had asked for preservation first and disclosure to both parties second. Whatever the page contained, it would not enter the record through an untested recollection.
-
-END OF PART 5 OF VOLUME SEVEN

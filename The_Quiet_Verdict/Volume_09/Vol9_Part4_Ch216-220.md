@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 9: The Final Game
-
-*Chapters 216 to 220 (Part 4 of Volume 9)*
-
-**Arc Five: The Final Game**
-
-Nia’s public chronology has exhausted its current municipal searches without identifying the measured plan, a borrower, or a last custodian. The city’s damaged register and the Foundation’s contractor correspondence remain separate records. A successor firm is searching the contractor’s transferred closeout files. The placement conviction against Ren was affirmed on its narrow signed-instruction basis; it did not decide exercise authorship, key access, candidate selection, or delivery. The transport inquiry remains open, and the official identification of Ren as the fatality rests on records Kuze has not seen. Kuze’s reported sighting of a man resembling Ren is still unverified. The chronology group continues to publish sources, corrections, and limits, without police authority or access to private placement files.
-
 # Chapter 216: The Closeout Index
 
 ---
@@ -257,5 +247,3 @@ Endo asked whether the contributor would let the clinic identify the paper’s d
 Nia asked the clinic to send one final reminder that the contributor could cancel without explanation. The coordinator did so. The contributor confirmed the appointment and asked that no journalist wait outside. Hoshina agreed not to attend or seek the location. The meeting remained a controlled review, not a press event or a police interview.
 
 The public source map remained unchanged until the appointment took place. Nia refused to add a countdown or label the paper “new evidence.” The only public update was that a supervised review had been scheduled at the contributor’s request. The group did not know what it would show, and the owner retained the right to stop the inspection.
-
-END OF PART 4 OF VOLUME NINE

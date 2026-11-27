@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 5: The Monster
-
-*Chapters 121 to 125 (Part 5 of Volume 5)*
-
-**Current-State Recap: The Monster**
-
-The Matron has permitted supervised imaging of two count books and four loose fragments but retains the originals. Her account describes a room-level counting routine, not a transfer list; she cannot identify the authors or purpose of every page. Kreutz recalls an east-door staff route but cannot authenticate the recovered slips. A clinic retention schedule authorizes disposal of “night observation sheets” without proving the records were destroyed. Nia’s supervised placement continues, while her separate fellowship and exercise-file provenance remains unknown. A maintenance box documents an intermittent fault and disconnect on the east-boundary camera. A G2 key code appears in inventory and key-issue records, and may resemble the mark in the visitor log; no surviving record identifies the key-holder or proves the mark is that code.
-
 # Chapter 121: The Count That Did Not Travel
 
 ---
@@ -523,5 +513,3 @@ The second survey had not begun. The property representative checked the authori
 The old code could have opened the gate. The new key could show them where the gate led.
 
 Neither could tell them who had carried the first one.
-
-END OF PART 5 OF VOLUME FIVE

@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 9: The Final Game
-
-*Chapters 221 to 225 (Part 5 of Volume 9)*
-
-**Arc Five: The Final Game**
-
-A successor contractor’s closeout schedule records a measured sheet as prepared, a consultation copy, and an unexplained “return to file” mark. It does not identify a recipient or prove a transfer. The city’s damaged register remains separate; no shared identifier links it to the contractor record. A confidential recollection about a similar notation was withdrawn and is not active evidence. Nia’s public chronology has corrected its own labels and published a consent-based process for reviewing new sources. A contributor, with the owner’s permission, has arranged a supervised inspection of a paper; the object has not yet been examined publicly, and its origin and relevance remain unknown. The placement appeal, transport inquiry, and Lantern House records remain outside this review.
-
 # Chapter 221: The Fold
 
 ---
@@ -279,5 +269,3 @@ Nia asked Endo to preserve the receipt status and timestamp in the public log, n
 I did not know what it said. The public record could not show whether it concerned the paper, another book, or something unrelated. The review had not established that a duplicate existed or where any copy had been kept. The documented chain remained incomplete.
 
 The approved minutes recorded one further decision: Nia asked the group to leave the confidential submission outside the active map unless a source could be checked and permission granted. Endo added a status row—not the serial or the alleged second book—showing that a submission had been received and no public source had been authorized. The clinic would not seek identifying data. The change made the map more complete about its process without making it more certain about the paper. Readers could see that a claim had arrived and what the group had done with it; they could not infer who sent it, what it contained, or whether it was true. The session ended with a corrected date, a documented limit, and no new endpoint for the plan.
-
-END OF PART 5 OF VOLUME NINE

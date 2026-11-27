@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 5: The Monster
-
-*Chapters 111 to 115 (Part 3 of Volume 5)*
-
-**Current-State Recap: The Monster**
-
-An 88-step route crosses the boundary beside the former Lantern House parcel to a lower room and a corridor. A second door opened onto an empty alcove. A paper strip reading “Count the door that stays open” appeared in the second of two photographs taken four minutes apart; the images do not show when it was placed or who had access. A separate register’s 71 entries and a 31-name relocation schedule remain unlinked. Mio remembers a routine second count but cannot identify the recovered page. Ishikawa has begun a limited records task force. Wataru is an outside adviser, not an investigator. The inquiry protects personal names and distinguishes a recorded fact from an inference.
-
 # Chapter 111: The Terms
 
 ---
@@ -637,5 +627,3 @@ The archive added a note to the inquiry log: Kreutz believed the Matron retained
 At 6:40 that evening, a new message arrived from the Matron’s solicitor. The Matron was willing to meet Ishikawa, but only if Mio was not present and Kreutz was not told what she said.
 
 Ishikawa read the condition twice. The next record would begin with a person who had refused to be counted in the room.
-
-END OF PART 3 OF VOLUME FIVE

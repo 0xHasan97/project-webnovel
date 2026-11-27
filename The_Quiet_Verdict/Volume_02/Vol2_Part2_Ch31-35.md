@@ -1,11 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 2: The Third Player
-
-Chapters 31 to 35 (Part 2 of Volume 2)
-
-
-
 # Chapter 31: Fifteen Steps
 
 Nobody in the cellar moved.
@@ -215,7 +207,6 @@ Himeno sat down on a folding chair. She sat quite heavily, as if the cord that h
 He sat down on the cold concrete, with the box between his knees and the swinging bulb above his head, and turned over the last page of the stack.
 
 
-
 # Chapter 32: The Good Girl
 
 At 7:40 the next morning, Mio Hanazono went to breakfast as she always did, and sat in the same seat at the long dormitory table, and ate her rice in small, careful bites.
@@ -403,7 +394,6 @@ She turned the sheet over. On the back, in the same pencil, in a hand that had g
 And below it, in tiny letters, very small, like a thing written for no one, a date.
 
 It was seven years ago.
-
 
 
 # Chapter 33: Signed, R.
@@ -603,7 +593,6 @@ He looked at it for a very long time.
 Then he took out a pen, and wrote beneath it, in a small, neat, even hand, a line he had never written in his life.
 
 *I did not draw this one.*
-
 
 
 # Chapter 34: The Last Character
@@ -819,7 +808,6 @@ She went. She walked the length of the corridor, and turned at the corner, and s
 It was only after she had stood for a full minute in the dim light, with her arms wrapped around herself, that she understood what had troubled her. He had looked at the key for eleven seconds. He had not asked her a single question about it. Not who had given it, not where it had come from, not what it might open.
 
 He had not needed to.
-
 
 
 # Chapter 35: Two Hundred and Sixty-Five

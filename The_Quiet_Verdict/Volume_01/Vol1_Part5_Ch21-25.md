@@ -1,23 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 1: The Classroom
-
-Chapters 21 to 25 (Part 5 of Volume 1)
-
-
-
-## Arc 1 Recap: The Classroom
-
-*Aster Institute ranks its students by a hidden point system, and the ones who fall to zero are removed.*
-
-*Ren Aizawa, second in his class, does not show emotion and does not explain himself.*
-
-*Someone, somewhere, has begun to decide who lives.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. Each use is recorded in the ledger, in the writer's own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it.*
-
-
-
 # Chapter 21: The Ghost Has a Name
 
 The audit of terminal three took the Task Force nine days.
@@ -181,7 +161,6 @@ Kuze looked down at the notebook, at the two words he had written on a page a fe
 *Lantern House.*
 
 "The one who taught him to be like this," he said. "In the first place."
-
 
 
 # Chapter 22: Seventeen Points
@@ -373,7 +352,6 @@ Then, at 9:41, a single word appeared.
 And the tablet went dark.
 
 
-
 # Chapter 23: The Matron
 
 On the morning of the last day of June, Himeno Saya found Ren Aizawa in the north library.
@@ -561,7 +539,6 @@ He bowed, and went back along the cliff path toward the school. When he was out 
 Then he closed it and put it away, and walked back the way he had come, counting.
 
 
-
 # Chapter 24: The Closing Statement
 
 On the first Monday in July, the National Police Agency convened a press conference.
@@ -711,7 +688,6 @@ He closed the notebook.
 "Two hundred and sixty-five."
 
 It was the sound of a boy adding one more stair to a staircase that had never been there.
-
 
 
 # Chapter 25: Good Evening, Aizawa
@@ -869,5 +845,3 @@ In the second-floor office, a rumpled man lifted his hands from the keys of a la
 And in the south dormitory, a boy of sixteen set down his pen, and looked for the first time in four months at the envelope on his desk, and said to the empty room, in a voice so soft and so level that it might have been a line of poetry or a prayer:
 
 "Of course."
-
-*END OF VOLUME ONE*

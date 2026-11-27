@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 3: The Hunt
-
-*Chapters 71 to 75 (Part 5 of Volume 3)*
-
-## Arc 2 Recap: The Hunt
-
-At Aster’s festival, a woman posing as Mr. Kurata’s sister reached him, a guest-book page vanished, and two messages asked Kuze to count. The closing banquet ended with thirty-two confirmed guests, thirty-three places and one meal left unclaimed. Inspector Ishikawa’s invitation was genuine, but it did not explain the extra place. The question remains open; no one has established that the blank place belonged to a person.
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.*
-
 # Chapter 71: The Name Called
 
 ---
@@ -531,5 +519,3 @@ Before leaving the cabinet, Himeno and Sato counted the notebooks by their cover
 Himeno asked him to sign a receipt stating that the notebooks had not been transferred to police custody. He wrote that the police held photographs and copies, while the originals remained in the committee cabinet under Himeno's key. She signed beneath him. The receipt did not make her the owner of every page; it made her responsible for keeping the collection in order until the authority to move it was clear.
 
 When she closed the cabinet, she left the inventory sheet on the outside of the door. Anyone requesting a volume would have to write a name, time and reason. The request did not resolve the blank place, the corridor or the unfinished sentence. It established who would be accountable for the next copy.
-
-*END OF PART 5 OF VOLUME THREE*

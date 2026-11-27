@@ -1,10 +1,8 @@
-**THE QUIET VERDICT**
+## Arc 2 Recap: The Hunt
 
-Volume 2: The Third Player (Arc 2 begins: The Hunt)
+The false closing statement left the Task Force’s investigation unresolved. Wataru was dismissed after challenging that account, and Kagami has arrived at Aster, telling Ren his plans openly. The Trust Exam ended with Mio leaving for Lantern House; Himeno and Kuze remain at school. No new identity or connection is established at the opening of this arc.
 
-Chapters 46 to 50 (Part 5 of Volume 2)
-
-
+*The Mechanism: a name written with a clear face in mind. The writer must see the face; a name alone fails. A heart event follows within forty seconds, or the written manner within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger cannot be copied or photographed and exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used; only the writer knows.*
 
 # Chapter 46: The Last Class
 
@@ -169,7 +167,6 @@ It was a very small thing. Half an inch to the left of the center. Nobody notice
 Except a pale boy at the end table, who had looked up from his notebook at that exact moment, and who wrote it down.
 
 *11:48. The cup.*
-
 
 
 # Chapter 47: The Daily Briefing
@@ -341,7 +338,6 @@ Nobody moved. In the long, cold, sunless room, the six of them stood motionless 
 "I believe," said Kagami slowly, "that it is the best one I have ever seen."
 
 
-
 # Chapter 48: Nothing Happens
 
 For three weeks, nothing happened.
@@ -511,7 +507,6 @@ At last, very quietly, he said to himself:
 And, a little later, so softly that nobody heard it:
 
 "I think I have just lost again."
-
 
 
 # Chapter 49: The Festival
@@ -707,7 +702,6 @@ For a long moment, they stood on the landing, two shapes in the dusk, one bright
 "No," agreed Ren. "But I thought it would be polite to say so."
 
 He bowed, and went down the stairs.
-
 
 
 # Chapter 50: The Festival Plan

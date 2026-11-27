@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 5: The Monster
-
-Chapters 106 to 110 (Part 2 of Volume 5)
-
-## Arc 3 Recap: The Monster
-
-Aster’s Foundation held an access easement beside the former Lantern House parcel. An 88-step route leads to a lower room; the surveyed path crosses the property boundary and does not run beneath the school’s classrooms. A placement register counts seventy-one entries, but their outcomes are unresolved. A separate relocation schedule lists thirty-one residents moved before the fire and bears the blue-ink line “The east stairs remain open until the last count,” with an “R” beneath it. A different recovered page instructs, “Do not close the east door until the second count is signed”; its date and author remain unknown. The sheets’ relationship is not established. Mio has returned to Lantern House by choice and has agreed to describe what she remembers.
-
 # Chapter 106: The Joint Order
 
 The agreement arrived with three signatures and one condition nobody had expected.
@@ -66,7 +56,7 @@ Before she left, Mio asked to see the copy of her statement. Ishikawa gave it to
 
 Himeno asked whether she wanted the wording changed. Mio said yes. The clerk replaced “returned” with “went back,” and recorded that the correction was made at Mio’s request. She signed the amended page, then asked for a copy she could keep.
 
-The request delayed the meeting by eleven minutes. No one tried to hurry her. When the copy was ready, Mio checked the correction before folding it into her coat.
+The request delayed the meeting by nine minutes. No one tried to hurry her. When the copy was ready, Mio checked the correction before folding it into her coat.
 
 Ishikawa asked whether she wanted the correction recorded as a clarification or as a disagreement with the interviewer. Mio said it was neither. She had used a word that sounded like an order when she meant a choice. The clerk added her explanation in the margin without erasing the first version.
 
@@ -691,5 +681,3 @@ The chain’s bright cut belonged to the locksmith. The scratches and the paper 
 And someone had wanted it closed again.
 
 ---
-
-END OF PART 2 OF VOLUME FIVE

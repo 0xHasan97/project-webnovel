@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 7: The Collapse
-
-*Chapters 166 to 170 (Part 4 of Volume 7)*
-
-**Current-State Recap: The Collapse**
-
-Ren Aizawa was arrested under a narrow warrant based on a signed, student-number-verified instruction to remove “simulation” from the cover and withhold the source key, alongside the coastal archive’s certified mismatch between the cited case number and its records. The warrant excludes the anonymous receipt, unattributed image request, Hara’s death, and Lantern House. The arrest at the school forum was captured on the livestream despite the plan for private service; arrest is not a finding of guilt. In court, the charge is limited to alleged fraud in the R-12 placement process. Evidence so far links Ren’s school identity to submission of the cover-change instruction, but does not establish that he authored the exercise, chose Nia, knew when it was assembled that the cited number was false, or that a particular candidate received the retained specimen. Nia attends some public proceedings voluntarily but is not a police witness; her private placement file remains separate. Ren has made no statement in court.
-
-The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows. This entry is internal continuity only; the court and characters have not connected it to Hara’s death.
-
 # Chapter 166: The First Appearance
 
 ---
@@ -249,5 +237,3 @@ The group adopted the sentence and cited the exhibit number. It did not speculat
 Ren remained silent as the court recessed. The record grew around the instruction, but the candidate it was meant to reach remained unnamed.
 
 The sealed retention rule had not yet been released to either party. The judge set a return date and directed the school to preserve the original checklist, the specimen, and any distribution log without further annotation. The order did not authorize access to Nia’s separate application or score.
-
-END OF PART 4 OF VOLUME SEVEN

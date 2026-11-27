@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 5: The Monster
-
-*Chapters 116 to 120 (Part 4 of Volume 5)*
-
-**Current-State Recap: The Monster**
-
-The Matron has voluntarily allowed supervised imaging of two count books and four loose fragments, retaining custody of the originals. The books record people present in specific rooms at two times; they are not transfer registers. A thirty-one total appears in one fragment, but its category and date are missing. Ishikawa’s six-week inquiry remains limited. Wataru is an outside records adviser. Nia is a supervised youth observer; her separate questions about the unexplained fellowship referral remain outside the Lantern House case file. Kreutz supplied an unverified retention schedule and has not received the Matron’s statement or images. The east-door instruction, the cut name, and the photograph gap remain unresolved.
-
 # Chapter 116: The Condition
 
 ---
@@ -655,5 +645,3 @@ The call log established that Ishikawa had received the note before contacting t
 At the end of the day, the evidence clerk filed the four pages under “unclassified count fragments.” The source was recorded as the Matron; the dates, subject, authorship, and missing column’s contents remained unknown.
 
 A blank column had become a question only after someone named it.
-
-END OF PART 4 OF VOLUME FIVE

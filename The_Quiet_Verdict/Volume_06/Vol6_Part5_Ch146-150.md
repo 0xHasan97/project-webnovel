@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 6: The Monster
-
-*Chapters 146 to 150 (Part 5 of Volume 6)*
-
-**Current-State Recap: The Monster**
-
-The lower corridor lies across the parcel boundary and has not been established as a residence. The 88-step route, alcove, capped drain, paper strip, cut name, and photograph gap remain unresolved. The count books and fragments are room-level records, not transfer lists; no resident outcomes are established. G2 is a shared program/cabinet code, not a confirmed interpretation of the visitor-log mark. A work order records the east camera’s intermittent fault and disconnection, but its repair status remains unknown. Former facilities clerk Hara Tadao died after his interview; recorded camera and recorder ranges place his collapse 24–39 seconds after Ren was observed writing, but no page content or cause of death has been established in-world. Nia continues by choice as a supervised public-chronology coordinator. The R-12 exercise and grant records show a prepared route and a typed Aster contact, while authorship, donor, and recipient-selection timing remain unknown. Kreutz claims to recognize the abraded registry name, but it has not been disclosed or authenticated. The six-week inquiry is extended narrowly; a new placement-receipt submission has been claimed but not verified.
-
 # Chapter 146: The Unsigned Note
 
 ---
@@ -291,5 +281,3 @@ Nia read the notice and asked whether the source had provided a name.
 Endo nodded and locked the notice in the restricted cabinet.
 
 The extension gave Ishikawa another month. The public chronology had its own rules. The next record, if it existed, would have to survive both.
-
-END OF PART 5 OF VOLUME SIX

@@ -1,14 +1,8 @@
-**THE QUIET VERDICT**
-
-Volume 7: The Collapse
-
-*Chapters 151 to 155 (Part 1 of Volume 7)*
-
 ## Arc 4 Recap: The Collapse
 
-Aster’s records now connect a prepared youth placement route to a school contact typed “R. Aizawa,” but no surviving source identifies the typist, the donor, or the intended recipient. Nia has chosen to continue as a supervised public-chronology coordinator, keeping her placement file separate from the police inquiry. Ishikawa’s authority remains narrow: he may preserve and test specified records, not treat a repeated code as permission to search everything. Lantern House’s counts, the residents’ outcomes, the fire, the visitor-log mark, and the abraded registry name remain unresolved. Kreutz claims to recognize the erased name but has disclosed none, and no comparison authenticates his memory. Hara’s collapse followed Ren’s observed notebook writing in the recorded time range, but no character has confirmed a cause. A purported transfer receipt has arrived anonymously. The sender and the document’s custody are unknown; the office has not authenticated it.
+Aster’s records connect a prepared youth-placement route to a school contact typed “R. Aizawa,” but no surviving source identifies the typist, donor, or intended recipient. Nia chose to continue as a supervised public-chronology coordinator, keeping her placement file separate from the police inquiry. Ishikawa’s authority remains narrow. Lantern House’s counts, residents’ outcomes, the fire, the visitor-log mark, and the abraded registry name remain unresolved. Kreutz claims to recognize the erased name, but no comparison authenticates his memory. Hara’s collapse followed Ren’s observed notebook writing in the recorded time range, but no character has confirmed a cause. A purported transfer receipt arrived anonymously and remains unauthenticated.
 
-The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.
+*The Mechanism: a name written with a clear face in mind. The writer must see the face; a name alone fails. A heart event follows within forty seconds, or the written manner within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger cannot be copied or photographed and exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used; only the writer knows.*
 
 # Chapter 151: The Delivery
 
@@ -289,5 +283,3 @@ The next name might be in the calendar.
 The public chronology’s status line remained unchanged until the clerk’s meeting took place. Nia added a reminder to the internal review schedule, not a finding: “Potential personal record offered; inspect only with owner consent and documented scope.” Endo countersigned the note. The calendar had not been received, and no one could yet say whether it concerned the packet, the school, or a different appointment altogether.
 
 Or the calendar might only contain another date.
-
-END OF PART 1 OF VOLUME SEVEN

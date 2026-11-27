@@ -1,15 +1,3 @@
-THE QUIET VERDICT
-
-Volume 3: The Hunt
-
-Chapters 61 to 65 (Part 3 of Volume 3)
-
-## Arc 2 Recap: The Hunt
-
-*By the end of the festival’s second day, Mr. Kurata remained under observation after a woman posing as his sister reached him. The guest book contained a false entry, and the stranger who brought a foundation card to the gate had not returned. Kagami’s guards had no name for either visitor. At 11:11, an unidentified girl delivered a paper lantern to Kuze with a message: The eleventh has a name. The festival’s final day begins.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event comes within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the ledger, in the writer’s own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not say how many times it has been used. Only the writer knows.*
-
 # Chapter 61: The Wall Behind the Archive
 
 At 7:08 on Monday morning, Kuze Minato returned to the place the girl had named.
@@ -709,5 +697,3 @@ At 8:58 p.m., the volunteer returned without the headmistress. The west office w
 The banquet hall clock ticked once toward nine.
 
 The front doors opened.
-
-*END OF PART 3 OF VOLUME THREE*

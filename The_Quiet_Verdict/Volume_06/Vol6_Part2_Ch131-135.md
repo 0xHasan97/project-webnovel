@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 6: The Monster
-
-*Chapters 131 to 135 (Part 2 of Volume 6)*
-
-**Current-State Recap: The Monster**
-
-Lantern House and the inquiry. The 88-step route crosses the parcel boundary to a lower corridor, not beneath Aster’s classrooms. The alcove, capped drain, east-door instruction, cut name, and photograph gap remain unexplained. The Matron’s books and loose fragments record limited room-level counts, not transfers or outcomes. The east camera’s repair completion and the G2 visitor-log mark remain unverified. Former facilities clerk Hara Tadao could not identify the mark and died after his recorded interview; the camera/recorder clock ranges place his collapse 24–39 seconds after Ren was seen writing in his black notebook, but the page is not visible and the medical record has not established a cause. A narrow corridor inspection found no identifiable code plate or camera connection. Nia remains a supervised archive observer with her placement file kept separate from the police case. A restricted R-12 index and sealed envelope remain under privacy review.
-
-The Mechanism (as stated in the existing case file): A clear name and face trigger a death within forty seconds of a heart event, or in the written manner within six minutes forty seconds. The writer must see the face; a name alone fails. Each use is recorded in the writer’s hand and cannot be erased. The ledger cannot be copied or photographed and exists in one place. It triggers a death but is not required for a death to appear natural. Anyone holding it may read it. The ledger does not state its number of uses; only the writer knows.
-
 # Chapter 131: The Copy in the Tin Box
 
 ---
@@ -311,5 +299,3 @@ She did not write Ren’s name beneath them.
 Then she uncapped a marker and drew a line from “Aster contact” to “R. Aizawa,” leaving the next box blank.
 
 The first question had finally been asked in the right direction.
-
-END OF PART 2 OF VOLUME SIX

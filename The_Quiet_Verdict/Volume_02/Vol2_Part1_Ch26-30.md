@@ -1,11 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 2: The Third Player
-
-Chapters 26 to 30 (Part 1 of Volume 2)
-
-
-
 # Chapter 26: The Doctor
 
 The observatory at midnight smelled of cold brass and chamomile.
@@ -149,7 +141,6 @@ On the back, in a gentle, unhurried hand, was written a single line.
 *Nobody kept yours for long.*
 
 
-
 # Chapter 27: Three Notebooks
 
 Mr. Wataru held the meeting in the cellar of the old gymnasium, at midnight on Friday, because it was the only place in the school that did not have a camera, a window, or a vent.
@@ -269,7 +260,6 @@ After a moment, Himeno raised her cup. Kuze did not speak, but he lifted his pen
 They drank.
 
 The thermos was empty. The bulb swung a little on its cord. And somewhere above them, on the third floor of the south dormitory, a light went out in a room at the end of a corridor, and a boy lay down in the dark, with his eyes open, and began to count the ceiling tiles.
-
 
 
 # Chapter 28: The Reporter
@@ -419,7 +409,6 @@ Then, below it, he wrote the other thing he had known since the moment he read t
 *So was Mio.*
 
 
-
 # Chapter 29: Number One
 
 Aoi Tsukishiro did not take visitors after six.
@@ -543,7 +532,6 @@ He stood there for a moment, quite still, with the box in his hands.
 He did.
 
 On the other side of it, in the corridor, he leaned back against the wall and breathed out, long and slow. Then he looked down at the ribbon on the box and, very gently, untied it.
-
 
 
 # Chapter 30: The Box

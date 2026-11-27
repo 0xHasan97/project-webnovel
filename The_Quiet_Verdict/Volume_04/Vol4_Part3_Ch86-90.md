@@ -1,22 +1,8 @@
-**THE QUIET VERDICT**
-
-Volume 4: The Hunt
-
-*Chapters 86 to 90 (Part 3 of Volume 4)*
-
-## Arc 2 Recap: The Hunt
-
-At Aster’s closing banquet, one of thirty-three places remained unassigned and one meal went unserved. Kuze was reported missing, then reported dead after the headmistress received a hospital notice. No banquet witness has established the cause or manner of death. Himeno holds Kuze’s notebooks and a sealed-page sequence; a later inspection found an annotation about a clock, but the first recovery photograph does not show the page clearly enough to date it. A Foundation request for old site plans shares a property reference with a Lantern House file, but delivery and custody remain unverified. Kagami’s exact warnings are being circulated without context, and the school has restricted his access.
-
-The witnesses’ times remain qualified by their sources: clocks, records, and memory do not always agree. A fourth print-shop transaction establishes that a festival sheet was copied, not that it was a seating plan. The Foundation’s old envelope may have traveled to Aster, but its contents and delivery remain unproved. An archive cut through a name field establishes removal, not whose name was there. Kagami can still speak about what he personally observed, though he cannot inspect the records needed to test his account.
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.*
-
 # Chapter 86: The Full Exchange
 
 ---
 
-The complete recording was six minutes and twelve seconds long. The clip on the parent forum was eleven seconds.
+The complete recording was six minutes and twelve seconds long. The clip on the parent forum was fourteen seconds.
 
 Himeno watched the clip once, then stopped it before the loop began again. Kagami’s voice said, “I won’t stop you from going, but I won’t pretend the choice is safe.” The crop began on the word “stop” and ended before Kuze answered. The caption called it a warning delivered after Kagami had already sent him toward the corridor.
 
@@ -28,7 +14,7 @@ Kuze’s voice, on the full file, was quiet but clear: “I’m going as a witne
 
 The exchange did not establish what either man knew about the banquet. It established what they said in that room.
 
-The committee secretary checked the camera index. The file was created automatically at 3:18 p.m. and copied to the school server at 3:32. A later export had been made on a staff computer, but the log did not identify the person who selected the eleven-second segment. The original remained read-only on the server. The copy circulating online had no metadata beyond its upload time.
+The committee secretary checked the camera index. The file was created automatically at 3:18 p.m. and copied to the school server at 3:32. A later export had been made on a staff computer, but the log did not identify the person who selected the fourteen-second segment. The original remained read-only on the server. The copy circulating online had no metadata beyond its upload time.
 
 Himeno asked the secretary to preserve the export history before anyone made another copy. The secretary printed the system log and signed each page. It established when the full file had been saved, not who had trimmed the clip or whether the online audio came from the committee camera.
 
@@ -52,7 +38,7 @@ Himeno looked at the paper. “The transcript won’t show the pauses.”
 
 It was not a satisfying substitute. It was the version the committee could stand behind without making the recording appear to prove more than it did.
 
-Himeno called the parent representative who had posted the clip. The woman answered from her car. She had received the eleven seconds from another parent and had not checked the source. The file had been forwarded several times; the original sender was not shown on her phone.
+Himeno called the parent representative who had posted the clip. The woman answered from her car. She had received the fourteen seconds from another parent and had not checked the source. The file had been forwarded several times; the original sender was not shown on her phone.
 
 “I thought people should hear what he said,” the woman explained. “I didn’t cut it.”
 
@@ -62,11 +48,11 @@ Himeno called the parent representative who had posted the clip. The woman answe
 
 Himeno asked her to remove the caption claiming Kagami had sent Kuze into the corridor. The woman said she would correct the post but did not want to delete it; people had already shared it.
 
-The transcript went up that afternoon with a note that the full recording was not public and that the transcript could not reproduce the sound or timing. It included Kuze’s answer and the statement that neither man described a specific threat. The note also said the school could not identify who made the eleven-second clip.
+The transcript went up that afternoon with a note that the full recording was not public and that the transcript could not reproduce the sound or timing. It included Kuze’s answer and the statement that neither man described a specific threat. The note also said the school could not identify who made the fourteen-second clip.
 
 The correction did not travel as far as the crop. By evening, the clip had been shared on three neighborhood pages. The transcript appeared in one reply beneath it. A user copied the sentence “I won’t stop you” and left off the rest.
 
-A local reporter called Himeno and asked who had first circulated the eleven-second file. She checked the committee’s export log before answering. It recorded a full-length export on a staff computer but did not record a user name. The forum post showed only the person who uploaded it, not the sender who had supplied it. Himeno gave the reporter those limits and offered to send the log after the headmistress approved its release.
+A local reporter called Himeno and asked who had first circulated the fourteen-second file. She checked the committee’s export log before answering. It recorded a full-length export on a staff computer but did not record a user name. The forum post showed only the person who uploaded it, not the sender who had supplied it. Himeno gave the reporter those limits and offered to send the log after the headmistress approved its release.
 
 The reporter asked if Kagami had access to the camera system. He had been on the festival committee and had been present in the room, but the system log did not show him exporting the recording. Himeno would not turn absence from the log into proof he had not touched it. She said the log did not identify the operator.
 
@@ -545,5 +531,3 @@ At the office door, the headmistress picked up the sealed file she had mentioned
 Ishikawa asked her to write that distinction into her statement. She did. The empty sleeve went into a separate evidence bag, its contents listed as none found. No one called it proof that a name had been removed.
 
 When Ishikawa closed his notebook, the headmistress looked once more at the blank space in the archive scan. She did not resume the interrupted sentence.
-
-*END OF PART 3 OF VOLUME FOUR*

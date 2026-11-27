@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 7: The Collapse
-
-*Chapters 161 to 165 (Part 3 of Volume 7)*
-
-**Current-State Recap: The Collapse**
-
-The regional workshop dispatch ledger, Aster mail book, and student-contact counterfoil establish that an R-12 packet entered the school’s assigned-carrier process, but no completed handoff to Ren is proven. A retired clerk’s calendar and carbon stub support a scheduled transfer attempt; the “R.A.” initials are unattributed. Ren acknowledges the R. Aizawa field matches his school identity but cannot place the packet. A separately cataloged workshop master confirms a three-clock placement exercise assembled from authentic public records, but the coastal archive’s certified index shows its case number belonged to a maintenance drill, not a disappearance. An unsigned revision slip requested removal of the exercise’s “simulation” label; its author is unknown. A magistrate issues a warrant for suspected falsification and obstruction tied to the placement exercise, not Hara’s death or the Lantern House inquiry. Ren is arrested during a livestreamed public forum despite a plan for private service. The arrest is not a finding of guilt, and the exercise’s author and intended beneficiary remain unestablished.
-
-The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.
-
 # Chapter 161: The Handoff
 
 ---
@@ -283,5 +271,3 @@ Endo asked Nia whether she wanted the arrest clip excluded from the chronology. 
 The correction appeared beneath the clip. The clip continued to spread.
 
 On camera, Ren had been taken away under his school name. On the record, the question of who made the exercise remained open.
-
-END OF PART 3 OF VOLUME SEVEN

@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 7: The Collapse
-
-*Chapters 156 to 160 (Part 2 of Volume 7)*
-
-**Current-State Recap: The Collapse**
-
-The regional workshop dispatch ledger and Aster’s bound mail records independently establish that an R-12 packet reached the school’s student-contact routing process. The counterfoil identifies the assigned contact as R. Aizawa, matching Ren’s school identity, but does not prove who wrote the entry or whether he collected, read, or authored the packet. An anonymous loose receipt remains unverified despite agreeing with several institutional fields. Ren says he cannot place the packet and does not speculate about its author. Nia remains a supervised public-chronology coordinator by choice, not a police investigator. A newly located workshop master shows the three-clock exercise was prepared as a conditional placement tool before Nia applied, and that its student version excluded a sealed witness statement. The master names no candidate or author. The archive’s public case records what each source establishes—and what it does not. The separate Lantern House, Hara, and erased-name mysteries remain unresolved.
-
-The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.
-
 # Chapter 156: The Calendar
 
 ---
@@ -279,5 +267,3 @@ The discovery also changed the request for the donor record. Ishikawa asked the 
 The workshop custodian confirmed that the master folder’s access log contained two catalog consultations before the placement office received Sagara’s copy. The log listed staff IDs, not personal names, and did not record whether anyone photographed or transcribed the contents. The two users would be contacted through the institute, but no one would assume they were the author or donor. The history had narrowed to a small set of dates. It had not yet narrowed to a person.
 
 Its candidate field was blank. The instructions were not.
-
-END OF PART 2 OF VOLUME SEVEN

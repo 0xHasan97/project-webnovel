@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 4: The Hunt
-
-*Chapters 81 to 85 (Part 2 of Volume 4)*
-
-## Arc 2 Recap: The Hunt
-
-At Aster’s closing banquet, one of thirty-three places remained unassigned and one meal went unserved. Kuze was reported missing, then reported dead by the headmistress after a hospital call and notice. The witnesses did not see his face on the stairs, and the school’s account remains a record of what it was told, not an independent medical finding. Himeno holds Kuze’s notebooks; one line about the camera clock was noticed only after recovery. Kagami’s school access has been suspended, and his honest statements are being quoted without their limits. Inspector Ishikawa continues to trace the Lantern House case. The blank place is still only a blank place. The first recovery photograph does not show the page where an annotation later appeared, so it neither dates the writing nor disproves its presence at recovery. A separate Foundation request concerns the old Lantern House property, but a shared file reference is not proof that the buildings or their histories are connected. Records of delivery, custody, and authorship remain incomplete.
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.*
-
 # Chapter 81: Four Minutes
 
 ---
@@ -743,5 +731,3 @@ That was the first new fact: the number was absent from the scan and present on 
 “The clerk says the back was blank in the outgoing image. We need to see that image before we can check.”
 
 She put the letter in a sleeve and sealed it with a dated label. The number remained visible through the plastic, separate from the archive code and from every other reference in the file.
-
-*END OF PART 2 OF VOLUME FOUR*

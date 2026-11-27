@@ -1,15 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 4: The Hunt
-
-*Chapters 96 to 100 (Part 5 of Volume 4)*
-
-## Arc 2 Recap: The Hunt
-
-At Aster’s banquet, one of thirty-three places was unassigned and one meal went unserved. Kuze was reported dead after a hospital notice; no witness established his cause or manner of death. Himeno holds his notebooks, including a clock annotation first noticed after recovery. Kagami’s warning has circulated without Kuze’s reply. Ishikawa has confirmed that Aster’s Foundation held an access and utility easement beside the Lantern House parcel, but delivery of the old plan remains uncertain and its lower-level sheet is missing. The fire record does not establish that the building was empty or that the fire was staged. Mio has returned with Kreutz. Ren admits writing the reports Kreutz believed were hers; Mio says she carried them but did not compose them. The source of each observation remains open. Kagami has been removed from the school inquiry and can speak only to what he personally observed.
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.*
-
 # Chapter 96: The East Gate
 
 ---
@@ -619,5 +607,3 @@ At the school, Ren received the board’s notice that Kagami’s access had ende
 The notice said Kagami had left Aster.
 
 It did not say the investigation had ended.
-
-*END OF PART 5 OF VOLUME FOUR*

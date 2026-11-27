@@ -1,11 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 2: The Third Player
-
-Chapters 41 to 45 (Part 4 of Volume 2)
-
-
-
 # Chapter 41: Good Morning, Aizawa-kun
 
 Kagami Touma said good morning to Ren Aizawa every day for nine days.
@@ -157,7 +149,6 @@ And it was, in the notebook of a pale boy in the back row, who had stayed behind
 *It is the first thing I have seen him not know.*
 
 
-
 # Chapter 42: The Matron's Tea
 
 Kagami went to see the Matron on a Saturday.
@@ -287,7 +278,6 @@ He considered the sentence.
 He added a second.
 
 *I DID NOT DRAW THAT.*
-
 
 
 # Chapter 43: The Trust Exam
@@ -437,7 +427,6 @@ He bowed and walked away across the roof. At the door he stopped, with his hand 
 "He is going to win this exam." Kagami's face was very still. "He is going to win it by being kinder, and truer, and more open than any of us. And I do not know whether he knows that he is *also* telling the truth."
 
 He went in. The door swung shut. In the cold night air, on the roof of the north library, a girl with a straight back sat alone, with her hands in her lap and her eyes on the dark, and thought about that for a very long time.
-
 
 
 # Chapter 44: Results
@@ -597,7 +586,6 @@ Mr. Taguchi, passing with a mop, stopped beside him.
 "I don't understand."
 
 "No. Nor does anyone." Kagami lifted his hand in a small, rueful salute. "But I think I'm starting to. And I think it is going to take me a great deal of time."
-
 
 
 # Chapter 45: The Note

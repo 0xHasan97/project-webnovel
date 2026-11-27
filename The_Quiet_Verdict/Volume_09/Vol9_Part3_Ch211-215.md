@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 9: The Final Game
-
-*Chapters 211 to 215 (Part 3 of Volume 9)*
-
-**Arc Five: The Final Game**
-
-The appeal affirmed only the placement-fraud conviction; it did not decide who authored the exercise, read the source key, selected a candidate, or delivered a student set. Officials publicly identify the transport fatality as Ren, while the collision inquiry continues and its underlying records remain private. The old service-gate ledger records an open latch during delivery, not a passerby; Kuze’s later account of leaving through it is firsthand but not verified by that ledger. Nia keeps placement, transport, and Lantern House records separate in the public chronology. The city archive’s north-wing consultation code and damaged “return pending” register line do not identify an item, borrower, or custodian. A contractor’s plan was ordered and prepared, but no source confirms delivery or last custody. Kuze’s account of a man resembling Ren remains unverified.
-
 # Chapter 211: The Source Page
 
 ---
@@ -347,5 +337,3 @@ The meeting audio began with the consent statement this time. Every participant 
 Nia closed the archive branch’s current action list. The city had no identified item or borrower; Foundation records did not confirm receipt; the successor firm was checking for a contractor closeout index. The site-plan question remained open, but the current public requests had reached their practical limit.
 
 I read the final status. It did not say the plan had gone nowhere. It said the group had not established where it went. The difference left room for a new record, if one appeared.
-
-END OF PART 3 OF VOLUME NINE

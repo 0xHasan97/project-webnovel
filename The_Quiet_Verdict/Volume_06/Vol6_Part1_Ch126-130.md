@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 6: The Monster
-
-*Chapters 126 to 130 (Part 1 of Volume 6)*
-
-**Current-State Recap: The Monster**
-
-The 88-step route crosses the parcel boundary to a lower corridor, not beneath Aster’s classrooms. The alcove, capped drain, east-door instruction, cut name, and four-minute photograph gap remain unexplained. The Matron’s count books and fragments record limited room-level information, not transfers or outcomes; Kreutz’s source for “second count signed” is unresolved. A work order records an intermittent fault on the east-boundary camera, disconnected pending parts; repair completion is unknown. G2 appears in key-related records, but its meaning in the visitor log and any key-holder are unverified. Nia remains a supervised archive observer, with her separate fellowship/exercise provenance unresolved. A narrowly authorized visual corridor inspection found no identifiable key-code plate or camera connection. Former facilities clerk Hara Tadao could not identify the visitor-log mark and died after his recorded interview; the medical cause remains under review. A restricted resident-intake register and a sealed index envelope are now under archive review; no names have been examined.
-
 # Chapter 126: The Narrow Inspection
 
 ---
@@ -293,5 +283,3 @@ After the session, the access officer checked the old reference numbers against 
 The access officer opened a preservation request for the manifest and the microfilm technician’s notes. It was not a request to unseal the envelope. Nia’s observer notes were reviewed by Sagara, who removed a personal name she had copied from a public index unrelated to the restricted volume. The corrected notes were countersigned and returned to her.
 
 The archive kept the volume sealed, the envelope sealed, and the two catalog counts side by side. The question had become narrower: who assigned the envelope number, and from which source list? It still did not say whether any page was missing.
-
-END OF PART 1 OF VOLUME SIX

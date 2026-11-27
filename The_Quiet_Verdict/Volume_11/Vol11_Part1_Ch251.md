@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 11: The Quiet Verdict
-
-# Chapter 251 (Final Chapter; Volume 11)
-
-**Final Chapter: The Quiet Verdict**
-
-Aster’s public stream is hosting a demonstration of the handbook’s version history. The format allows a participant to choose a public signature but does not authenticate a legal identity or open protected student records. Kuze’s account is based on the public broadcast and posted transcript. He has no private file, hidden ledger, police material, or independent identification source; claims made during the stream must remain attributed to the speaker.
-
 # Chapter 251: The Signature
 
 ---

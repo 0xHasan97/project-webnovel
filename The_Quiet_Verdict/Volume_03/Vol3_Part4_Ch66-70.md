@@ -1,17 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 3: The Hunt
-
-*Chapters 66 to 70 (Part 4 of Volume 3)*
-
-## Arc 2 Recap: The Hunt
-
-*Ren Aizawa has finished his first term at Aster Institute with four dead and no charge. The Task Force is gone, the box is gone, and a boy of nineteen who tells the truth has arrived to hunt him.*
-
-*At the festival, a false sister reached Mr. Kurata, a guest-book page vanished, and two messages asked Kuze to count. Kagami’s guard has learned to distinguish a verified name from a plausible story. The final banquet is underway.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event comes within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the ledger, in the writer’s own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not say how many times it has been used. Only the writer knows.*
-
 # Chapter 66: The Name in the Empty Place
 
 ---
@@ -717,5 +703,3 @@ The clerk checked the ledger against the chairs once more. Thirty-two names appe
 He did, but added that the observation applied only to that moment. The entry did not show that no one had entered or left earlier without being seen. The clerk copied his qualification into the margin rather than compressing it into a single tick.
 
 At 10:17 p.m., a server told Kagami she had heard Kuze’s name from the west corridor but had not seen who spoke. Kagami asked her to wait for Sato, then asked the guests to remain in the hall while the passage was checked.
-
-*END OF PART 4 OF VOLUME THREE*

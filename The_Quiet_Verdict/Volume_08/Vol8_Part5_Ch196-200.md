@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 8: The Collapse
-
-*Chapters 196 to 200 (Part 5 of Volume 8)*
-
-**Current-State Recap: The Collapse**
-
-The appellate court affirmed Ren's conviction on the single placement-fraud count, without finding he authored the exercise, read the instructor key, selected Nia, or that a student received a set. The sealed appendix was returned without being needed for the decision. The youth authority reported Ren's sentence closed after the medical examiner identified a deceased transport occupant as Ren Aizawa; underlying identification and transport records remain private and the collision inquiry continues. Kuze's reported death also rests on an incomplete public chain. A school catering ledger records a service gate held during a delivery, but does not identify anyone passing through it. The old placement evidence, Kuze notice, and transport collision remain separate records.
-
 # Chapter 196: The Signature
 
 ---
@@ -255,5 +245,3 @@ I watched from across the street. The man with the new name was not among the sp
 A public event photograph captured the courthouse steps, but the man stood beyond its sharp focus. The image could not verify my view. I did not submit my notes to the city or ask for the camera footage from the street. A public camera might have shown who stood there, but its existence and retention schedule were unknown to me. My account remained a witness statement I had written for myself, not an authenticated record.
 
 I could not tell whether the turn was recognition, habit, or simply the response of someone called. I did not cross the street. The crowd cheered when the banner was lowered, and the man walked the other way, carrying no sign and speaking to no one. The public called it a release. The record called it closure. I had only a face I thought I knew, moving under a name I had not earned the right to repeat.
-
-END OF PART 5 OF VOLUME EIGHT

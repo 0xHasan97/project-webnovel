@@ -1,17 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 4: The Hunt
-
-*Chapters 91 to 95 (Part 4 of Volume 4)*
-
-## Arc 2 Recap: The Hunt
-
-At Aster’s banquet, one of thirty-three places was unassigned and one meal went unserved. Kuze was reported dead by the headmistress after a hospital notice; no witness at the banquet established his cause or manner of death. Himeno holds his notebooks, where an annotation about a clock was noticed only after recovery. Kagami’s warning to Kuze has been clipped and circulated without its reply. A fourth festival print transaction proves a sheet was copied, not that it was a seating plan. The Foundation sought old architectural plans; an unsigned archive receipt and a routing envelope suggest, but do not prove, delivery to Aster. A cut admission-record field and the number 88 remain unexplained and separate.
-
-Ishikawa has obtained the public parcel records, but the survey’s lower-level sheet remains missing. The record now links Aster’s Foundation to an access and utility easement beside the Lantern House parcel. Neither the easement nor an old envelope proves that a plan reached Aster, that any route entered a building, or that the fire was staged. A locked gate, a stored key and a cut archive field remain separate leads, each awaiting verification.
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.*
-
 # Chapter 91: The Envelope
 
 ---
@@ -411,5 +397,3 @@ Himeno asked the headmistress to keep the key and lock in separate sealed bags u
 The Foundation’s counsel received the report and asked that no one approach the east boundary until the ownership and safety review was complete. Ishikawa acknowledged the instruction. The deed gave the Foundation a right of access, but he would not turn that right into an invitation to enter an uncertain site.
 
 The gate itself remained absent from the facilities inventory. The lock and key were present, matched by a shop test, and still lacked a documented chain connecting them to the old property.
-
-*END OF PART 4 OF VOLUME FOUR*

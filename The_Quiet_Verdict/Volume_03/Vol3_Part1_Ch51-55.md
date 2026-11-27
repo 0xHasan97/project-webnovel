@@ -1,19 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 3: The Hunt
-
-*Chapters 51 to 55 (Part 1 of Volume 3)*
-
-## Arc 2 Recap: The Hunt
-
-*Ren Aizawa has finished his first term at Aster Institute with four dead and no charge. The Task Force is gone, the box is gone, and a boy of nineteen who tells the truth has arrived to hunt him.*
-
-*The festival opens in three days. Ren has told the hunter that someone may die. He has not said who.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event comes within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the ledger, in the writer's own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not say how many times it has been used. Only the writer knows.*
-
-
-
 # Chapter 51: Ten Names
 
 On Thursday night, Kagami Touma laid ten index cards on the conference table, face up, in two rows of five, and said nothing for almost a minute. It was the longest he had been silent since September.
@@ -115,7 +99,6 @@ In the morning he showed it to Himeno, and then to Wataru, and last, at 8:29, to
 "That is not the same as wanting to."
 
 "No," said Kuze. "But it is the same as having noticed that I have already gone."
-
 
 
 # Chapter 52: The Ceremony
@@ -257,7 +240,6 @@ He read it for a long time. Then he added, underneath, a second line, and underl
 *Witnesses are not evidence. Witnesses are what evidence is for.*
 
 
-
 # Chapter 53: A Fair Price
 
 The rules of the festival were posted at 5:30, in thirty-two-point type, on the board outside the great hall.
@@ -391,7 +373,6 @@ There was a roar from the red counter at the bottom of the lawn. Dojima lifted a
 At the far end of the grounds, in the shade of a gold gingko, a boy in a green armband knelt at a charcoal stove and set a kettle back on its trivet, and did not look up.
 
 
-
 # Chapter 54: The Lanterns
 
 At dusk, they lit the wishes.
@@ -501,7 +482,6 @@ Underneath, in smaller letters, Kuze wrote:
 *Everything today was true. That is what frightens me. When has he ever needed to lie to me?*
 
 He had been told it would be something worth writing down. He had written it. He did not yet know what it was.
-
 
 
 # Chapter 55: Eleven
@@ -655,5 +635,3 @@ It was a hand-drawn card. It was the head and shoulders of a woman in a long gra
 Beneath that, in a second hand, in cramped, unfamiliar, hurried letters, as if added later by someone else:
 
 *He did not draw the sister.*
-
-*END OF PART 1 OF VOLUME THREE*

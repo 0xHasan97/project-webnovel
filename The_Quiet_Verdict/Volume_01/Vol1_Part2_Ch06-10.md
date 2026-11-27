@@ -1,23 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 1: The Classroom
-
-Chapters 6 to 10 (Part 2 of Volume 1)
-
-
-
-## Arc 1 Recap: The Classroom
-
-*Aster Institute ranks its students by a hidden point system, and the ones who fall to zero are removed.*
-
-*Ren Aizawa, second in his class, does not show emotion and does not explain himself.*
-
-*Someone, somewhere, has begun to decide who lives.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. Each use is recorded in the ledger, in the writer's own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it.*
-
-
-
 # Chapter 6: Midnight on the Roof
 
 At 11:20 p.m., a night guard named Mr. Taguchi was drinking tea in the east wing's security booth when a first-year student knocked softly on the window.
@@ -175,7 +155,6 @@ She underlined the line twice.
 Then, below it, in smaller letters, a thing she did not yet know how to ask.
 
 *Who benefits from a boy nobody believes?*
-
 
 
 # Chapter 7: Ogami's List
@@ -341,7 +320,6 @@ Then he wrote the ninth.
 He closed the book.
 
 He did not know yet that the man he was writing about had already read the first page.
-
 
 
 # Chapter 8: The Third
@@ -521,7 +499,6 @@ It was a message from the headmistress's office. Four short lines.
 *It concerns the person you suspect.*
 
 
-
 # Chapter 9: The Voice
 
 The first broadcast from Ø aired at 9:00 p.m. on a Friday, on every news channel in the country at once.
@@ -683,7 +660,6 @@ Himeno did not move.
 "No," said Himeno.
 
 "Good." He sipped his tea. "That means we're both being careful."
-
 
 
 # Chapter 10: Task Force Ø

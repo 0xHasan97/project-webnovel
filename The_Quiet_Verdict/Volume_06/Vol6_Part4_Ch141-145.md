@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 6: The Monster
-
-*Chapters 141 to 145 (Part 4 of Volume 6)*
-
-**Current-State Recap: The Monster**
-
-The 88-step route crosses the parcel boundary to a lower corridor, not beneath Aster’s classrooms. The alcove, capped drain, east-door instruction, cut name, and photograph gap remain unexplained. The Matron’s books and fragments are room-level records, not transfers or outcomes. The east-camera repair status and G2 visitor-log mark remain unverified. Hara Tadao died after his interview; recorded clocks place his collapse 24–39 seconds after Ren was seen writing in a black notebook, but the page was not visible and the medical cause is unestablished in-world. Nia continues voluntarily as a supervised public-chronology coordinator under amended consent. R-12 grant and routing records show a prepared exercise and a typed “R. Aizawa” contact, but not the author, typist, donor, or whether Nia was selected beforehand. Kreutz claims to recognize the abraded registry name; counsel interrupted the protected question before he said anything. No verified name has entered the record.
-
 # Chapter 141: The Sealed Comparison
 
 ---
@@ -251,5 +241,3 @@ That evening, the server’s access log recorded an anonymous download of the ch
 Nia read the log the next morning. She asked that the failed request remain separate from the contents of the card. The security officer agreed. No one knew who had tried to open the image.
 
 The first draft had been revised, checked, and published. Its most important line was still the one it did not fill in.
-
-END OF PART 4 OF VOLUME SIX

@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 8: The Collapse
-
-*Chapters 186 to 190 (Part 3 of Volume 8)*
-
-**Current-State Recap: The Collapse**
-
-The trial ended with a guilty finding on the single placement-fraud count. The court sentenced Ren to eighteen months in secure youth placement; the term is active and his appeal is pending without a listed stay. Ren remained silent through trial and no inference was drawn. The appeal concerns whether the signed cover instruction and surrounding testimony support the trial judge’s inference of intent despite no proved access to the source key and no named recipient. The appellate panel has heard argument but has not ruled. A sealed appendix is identified only as a protected juvenile administrative record, not trial evidence. The control sheet and receipt stub remain unprovenanced and did not support the verdict. Nia’s private placement file stays separate.
-
 # Chapter 186: The Response
 
 ---
@@ -271,5 +261,3 @@ The public archive set the image and statement in adjacent folders but did not c
 Kreutz did not submit a second statement after the minutes were approved. The chair closed the agenda item and moved to the next request. The appeal docket remained under submission, and the youth authority had not published another status notice. Neither record depended on the registry discussion.
 
 The day ended with an interrupted sentence, a sealed appendix, and no decision from the panel.
-
-END OF PART 3 OF VOLUME EIGHT

@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 8: The Collapse
-
-*Chapters 191 to 195 (Part 4 of Volume 8)*
-
-**Current-State Recap: The Collapse**
-
-The appellate court affirmed Ren's conviction on the single placement-fraud count, holding that the trial judge could infer intent from the signed instruction and the placement context. It did not find that Ren authored the exercise, read the instructor key, selected Nia, or that a student received a set. The sealed appendix was returned without being needed for the decision. The eighteen-month secure youth-placement sentence remained active. A later transport collision killed one occupant; the authority and medical examiner publicly identified that person as Ren, while the collision investigation continued and the underlying identification method remained private. The initial passenger reconciliation was corrected as a duplicate protected identifier. Separately, a school catering record showed a service gate left open during Kuze's banquet, but it did not establish who used it. Nia keeps the old school records separate from the placement case and the collision notices.
-
 # Chapter 191: The Opinion
 
 ---
@@ -297,5 +287,3 @@ The paper’s evening edition called the case “finished.” Its own story note
 By nightfall, the public account had stabilized: Ren Aizawa had been listed among the residents in a contracted transport, one occupant had died, and the medical examiner had identified the deceased as Ren. The collision investigation remained open. The authority had corrected its first count and disclosed no method of identification. Nia’s chronology linked the notice, the correction, and the appellate docket, then left a single field marked “independent verification of identity: not available in public record.”
 
 The authority’s notice also said the sentence was closed in its own system after receipt of the examiner’s identification. That administrative status did not alter the appellate opinion or add a finding to it. Nia placed the closure notice under placement administration and retained the court docket’s separate status: appeal concluded by affirmance. She left the old exercise index unchanged; no recipient or author had been added to the case file.
-
-END OF PART 4 OF VOLUME EIGHT

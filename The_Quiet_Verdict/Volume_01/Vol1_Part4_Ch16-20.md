@@ -1,23 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 1: The Classroom
-
-Chapters 16 to 20 (Part 4 of Volume 1)
-
-
-
-## Arc 1 Recap: The Classroom
-
-*Aster Institute ranks its students by a hidden point system, and the ones who fall to zero are removed.*
-
-*Ren Aizawa, second in his class, does not show emotion and does not explain himself.*
-
-*Someone, somewhere, has begun to decide who lives.*
-
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. Each use is recorded in the ledger, in the writer's own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it.*
-
-
-
 # Chapter 16: The Woman in Gray
 
 The envelope had arrived by hand, and in a school with four hundred students and sixty staff, a hand leaves a mark.
@@ -167,7 +147,6 @@ She turned and walked away down the hill road, her gray coat swinging at her kne
 She did not see the figure on the roof of the south dormitory, a small dark shape against the evening sky, which had watched the whole exchange without moving at all.
 
 And she did not see that the shape lifted one hand, very slightly, and wrote something in a plain black notebook that had nothing to do with homework.
-
 
 
 # Chapter 17: The Vote
@@ -353,7 +332,6 @@ He hesitated. He looked through the glass of the classroom door at the boy who h
 The headmistress said nothing. She looked at him for a moment, and her eyes were very dark, and then she turned and walked away down the corridor with the soft, even steps of a woman who has remembered something.
 
 
-
 # Chapter 18: A Question for Ø
 
 Mr. Wataru had never been good at being ignored.
@@ -525,7 +503,6 @@ He had been there for a long time.
 He did not follow Sakaki. He did not approach Himeno. He turned, in his own time, and walked toward the dormitory with an even, patient stride, and in the glow of a lamppost, for a single moment, his shadow stretched across the grass and touched hers.
 
 Then it moved on.
-
 
 
 # Chapter 19: Sugar
@@ -703,7 +680,6 @@ He did not reach for a pen. He did not touch his phone. He sat motionless in the
 For a very long time, there was no sound but the clock.
 
 Then he closed the notebook, and put out the lamp.
-
 
 
 # Chapter 20: Of Course

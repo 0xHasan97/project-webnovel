@@ -1,13 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 9: The Final Game
-
-*Chapters 206 to 210 (Part 2 of Volume 9)*
-
-**Arc Five: The Final Game**
-
-The appeal affirmed only the placement-fraud conviction; it did not decide who authored the exercise, read the source key, selected a candidate, or delivered a student set. Officials publicly identify the transport fatality as Ren, while the collision inquiry continues and its underlying records remain private. The old service-gate ledger records an open latch during delivery, not a passerby; Kuze’s later account of leaving through it is firsthand but not verified by the ledger. In the public chronology, Nia keeps placement, transport, and Lantern House records separate. A city archive search found a three-sheet packet and an unitemized envelope entry; a measured plan was ordered and prepared, but no source confirms delivery or last custody. The foldout reference may be only an applicant description. Kuze narrates from records, attributed statements, memory, and marked reconstruction; the resemblance sighting remains unverified.
-
 # Chapter 206: The Neighboring Code
 
 ---
@@ -299,5 +289,3 @@ The disagreement did not become a vote. Hoshina published the city’s certifica
 The city clerk confirmed a date for the viewing. The damaged volume would be brought out under the same conditions as the index book. The clerk added a final note: the paper backing had been repaired once, but the repair record did not state when. No photograph had been made before repair.
 
 The appointment fell on the morning after the next public chronology meeting. Nia asked Endo to reserve the room and print the source list. The search had not located a drawing, a borrower, or a last custodian. It had located a line that someone had once expected to close.
-
-END OF PART 2 OF VOLUME NINE

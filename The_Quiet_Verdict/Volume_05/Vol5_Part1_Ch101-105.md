@@ -1,14 +1,8 @@
-**THE QUIET VERDICT**
-
-Volume 5: The Monster
-
-*Chapters 101 to 105 (Part 1 of Volume 5)*
-
 ## Arc 3 Recap: The Monster
 
-Aster’s Foundation held an access and utility easement beside the Lantern House parcel. A historic plan index lists a service-level sheet withdrawn for transfer, but delivery to Aster has not been established. The former east gate appears in a repair photograph; its lock fits a stored key, though the chain of custody is incomplete. Fire records disagree on times and describe only the rooms crews entered. They do not establish that the building was empty or that the fire was staged. Mio returned with Dr. Kreutz and confirmed she carried reports Ren had written. Kagami’s school assignment ended, and he left without access to the evidence. Ishikawa has requested permission to inspect the easement. The number of children once associated with Lantern House remains uncertain, and no roster yet accounts for every name.
+Aster’s Foundation holds an access and utility easement beside the Lantern House parcel, but the historic service-level plan has not been shown to have reached Aster. The former east gate appears in a repair photograph, though the key’s chain of custody is incomplete. Fire records disagree on times and describe only the rooms crews entered; they do not establish that the building was empty or that the fire was staged. Mio returned with Dr. Kreutz and confirmed she carried reports Ren had written. Kagami’s school assignment ended, and he left without access to the evidence. Ishikawa has requested permission to inspect the easement. The number of children once associated with Lantern House remains uncertain, and no roster accounts for every name.
 
-*The Mechanism: a name written with a clear face in mind. The writer must see the face. A name alone fails. A heart event follows within forty seconds, or the manner written within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used. Only the writer knows.*
+*The Mechanism: a name written with a clear face in mind. The writer must see the face; a name alone fails. A heart event follows within forty seconds, or the written manner within six minutes and forty seconds. Each use is recorded in the writer’s own handwriting and cannot be erased. The ledger cannot be copied or photographed and exists in one place only. Anyone who holds it may read it. It does not state how many times it has been used; only the writer knows.*
 
 # Chapter 101: The Permit
 
@@ -361,5 +355,3 @@ The conservator called at dusk. She had separated the first two sheets without l
 At the bottom of the relocation schedule was a line in blue ink: “The east stairs remain open until the last count.”
 
 The signature beneath it was not a name. It was the letter R.
-
-*END OF PART 1 OF VOLUME FIVE*

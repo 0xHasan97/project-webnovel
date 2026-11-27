@@ -1,11 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 1: The Classroom
-
-Chapters 1 to 5 (Part 1 of Volume 1)
-
-
-
 ## Arc 1 Recap: The Classroom
 
 *Aster Institute ranks its students by a hidden point system, and the ones who fall to zero are removed.*
@@ -15,8 +7,6 @@ Chapters 1 to 5 (Part 1 of Volume 1)
 *Someone, somewhere, has begun to decide who lives.*
 
 *The Mechanism: a name written with a clear face in mind. The writer must see the face. Each use is recorded in the ledger, in the writer's own handwriting, and cannot be erased. The ledger exists in one place only. Anyone who holds it may read it.*
-
-
 
 # Chapter 1: The Blank Line
 
@@ -121,7 +111,6 @@ Behind him, in the last row by the window, a boy who had not yet left his seat k
 The handwriting was small and neat and slanted to the left. It matched nobody the boy had yet seen write.
 
 It was not until much later that anyone understood how carefully that had been arranged.
-
 
 
 # Chapter 2: Second Place
@@ -285,7 +274,6 @@ It included Himeno Saya.
 And at the very bottom, in the position where a man leaves the item he is most pleased with, it included the number of a student who had joined the class two days earlier and had said almost nothing to anyone.
 
 Student 251-0-1. Aizawa Ren.
-
 
 
 # Chapter 3: The Crossing
@@ -457,7 +445,6 @@ In the north stairwell of the school building, in the dark, a phone screen lit u
 *I'll bring the points.*
 
 
-
 # Chapter 4: The Price
 
 The evening before, in the dormitory common room, Ren Aizawa had asked Mio Hanazono for a favor.
@@ -605,7 +592,6 @@ He looked at it for a long time.
 Then he crossed it out and wrote the other one.
 
 *Eight.*
-
 
 
 # Chapter 5: Of Course

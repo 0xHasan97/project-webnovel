@@ -1,11 +1,3 @@
-**THE QUIET VERDICT**
-
-Volume 2: The Third Player
-
-Chapters 36 to 40 (Part 3 of Volume 2)
-
-
-
 # Chapter 36: A Truce in Three Notebooks
 
 At 11:58 p.m., a pressed gray shape appeared at the top of the cellar stairs.
@@ -205,7 +197,6 @@ Kuze looked down at his notebook. The page was clean. He had not written a singl
 He underlined it twice.
 
 
-
 # Chapter 37: The Observer
 
 Mr. Kurata did not teach on Thursdays after four.
@@ -377,7 +368,6 @@ Kurata's face went still.
 There was a long, horrible silence.
 
 "Then I am afraid," said Kurata, in a very small voice, "that we have already made a mistake."
-
 
 
 # Chapter 38: Fragile
@@ -573,7 +563,6 @@ Outside the window, on the lawn below, in the thin gray light, a student in a pr
 He did not need to.
 
 
-
 # Chapter 39: The Disciplinary Hearing
 
 The disciplinary hearing was held on the following Monday, in the great hall, before the entire faculty.
@@ -648,7 +637,7 @@ There was a moment of total silence, and then the hall erupted.
 
 ---
 
-It took the headmistress eleven minutes to restore order.
+It took the headmistress nine minutes to restore order.
 
 She did it with a single raised hand and a voice so cold that it seemed to freeze the air. When she had finished, the room was still, and forty faces were turned toward the second row with an expression that Wataru had seen before, on the faces of juries, in a long-ago life.
 
@@ -805,7 +794,6 @@ Himeno and Kuze stood on the gravel in front of him.
 He turned. He lifted his hand in a small, rumpled salute.
 
 Then he walked down the hill road, in the long light of the July afternoon, until the iron gate had closed behind him, and the cherry trees had swallowed him, and he was gone.
-
 
 
 # Chapter 40: Kagami

@@ -13,6 +13,6 @@ Novel_Title/
 
 ## Current novels
 
-- [The Quiet Verdict](The_Quiet_Verdict/) — drafted through Volume 9, Chapter 220.
+- [The Quiet Verdict](The_Quiet_Verdict/) — drafted through Volume 9, Chapter 225.
 
 Future novels can be added as sibling folders without mixing their chapters or continuity notes. Create volume folders as each novel grows.

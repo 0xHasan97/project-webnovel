@@ -2,7 +2,7 @@
 
 Manuscript batches are grouped by volume. The internal story codex is intentionally kept outside this public repository because it contains spoiler-sensitive planning notes.
 
-Current draft: through Volume 10, Chapter 235.
+Current draft: through Volume 10, Chapter 240.
 
 - [Volume 1](Volume_01/) — Chapters 1–25
 - [Volume 2](Volume_02/) — Chapters 26–50

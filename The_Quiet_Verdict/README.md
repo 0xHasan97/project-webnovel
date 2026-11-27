@@ -2,7 +2,7 @@
 
 Manuscript batches are grouped by volume. The internal story codex is intentionally kept outside this public repository because it contains spoiler-sensitive planning notes.
 
-Current draft: through Volume 9, Chapter 225.
+Current draft: through Volume 10, Chapter 230.
 
 - [Volume 1](Volume_01/) — Chapters 1–25
 - [Volume 2](Volume_02/) — Chapters 26–50
@@ -12,4 +12,5 @@ Current draft: through Volume 9, Chapter 225.
 - [Volume 6](Volume_06/) — Chapters 126–150
 - [Volume 7](Volume_07/) — Chapters 151–175
 - [Volume 8](Volume_08/) — Chapters 176–200
-- [Volume 9](Volume_09/) — Chapters 201–225 (in progress)
+- [Volume 9](Volume_09/) — Chapters 201–225
+- [Volume 10](Volume_10/) — Chapters 226–251 (in progress)

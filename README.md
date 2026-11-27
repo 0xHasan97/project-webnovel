@@ -1,18 +1,16 @@
 # Web Novel Library
 
-Each web novel has its own folder. Keep that novel’s continuity codex beside its volume folders, and place each manuscript batch in the corresponding volume folder.
+Each novel has its own folder, with manuscripts separated by volume. The spoiler-sensitive *The Quiet Verdict* continuity codex is maintained locally and intentionally excluded from this public repository.
 
 ```text
 Novel_Title/
-  Novel_Title_Story_Codex.docx
+  Novel_Title_Story_Codex.docx  # local/private; not published
   Volume_01/
-    ...chapter batches...
-  Volume_02/
     ...chapter batches...
 ```
 
 ## Current novels
 
-- [The Quiet Verdict](The_Quiet_Verdict/) — drafted through Volume 10, Chapter 240.
+- [The Quiet Verdict](The_Quiet_Verdict/) — complete through Volume 10, Chapter 251.
 
-Future novels can be added as sibling folders without mixing their chapters or continuity notes. Create volume folders as each novel grows.
+Future novels can be added as sibling folders without mixing their chapters or continuity notes.

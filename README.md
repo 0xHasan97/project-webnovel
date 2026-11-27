@@ -11,6 +11,6 @@ Novel_Title/
 
 ## Current novels
 
-- [The Quiet Verdict](The_Quiet_Verdict/) — complete through Volume 10, Chapter 251.
+- [The Quiet Verdict](The_Quiet_Verdict/) — complete through Volume 11, Chapter 251.
 
 Future novels can be added as sibling folders without mixing their chapters or continuity notes.
